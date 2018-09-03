@@ -8,7 +8,7 @@
         "schemaVersion": "3.0.0",
         "id": "HTTP_Example_Service",
         "label": "HTTP_Example_Service",
-        "remark": "HTTP Virtual Service w/ Single Pool and HTTP Profile",
+        "remark": "HTTP Virtual Service with Single Pool and HTTP Profile",
         "Tenant1": {
             "class": "Tenant",
             "HTTP_Service": {
